@@ -1,0 +1,30 @@
+﻿,Region.ID,Sample,Disease
+1,1,A,IPF
+2,2,A,IPF
+3,3,A,IPF
+4,4,B,IPF
+5,5,B,IPF
+6,6,B,IPF
+7,7,B,IPF
+8,8,C,IPF
+9,9,C,IPF
+10,10,C,IPF
+11,11,C,IPF
+12,12,D,IPF
+13,13,D,IPF
+14,14,D,IPF
+15,15,D,IPF
+16,16,E,IPF
+17,17,E,IPF
+18,18,E,IPF
+19,19,E,IPF
+20,20,F,Normal Lung
+21,21,F,Normal Lung
+22,22,F,Normal Lung
+23,23,G,Normal Lung
+24,24,G,Normal Lung
+25,25,G,Normal Lung
+26,26,H,Normal Lung
+27,27,H,Normal Lung
+28,28,I,IPF
+29,29,I,IPF
